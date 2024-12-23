@@ -1,7 +1,9 @@
 # Logiciel de traitement d'images astronomiques
 
 <p align="center">
-    <img src="/docs/InterfaceLogiciel.png"/>
+  <a href="https://getstream.io/tutorials/android-chat/">
+    <img src="/docs/InterfaceLogiciel.PNG"/>
+  </a>
 </p>
 
 ## Auteurs
